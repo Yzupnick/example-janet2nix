@@ -42,16 +42,17 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1701265910,
-        "narHash": "sha256-OBXJISgB7hPJ3d9ydC3vrhqt+8s3P6asCAqHmWOLvKQ=",
+        "lastModified": 1702829148,
+        "narHash": "sha256-99xLvy3GWO9ZwQMOxxQIMmmMHsOVaj5wxTX3tQ2xQ8o=",
         "owner": "yzupnick",
         "repo": "janet2nix",
-        "rev": "0360116b2a7b9bf19714de14e8ea08baf1a7b68f",
+        "rev": "b9497006685df339fb04a32e2a175a129e12b2f4",
         "type": "github"
       },
       "original": {
         "owner": "yzupnick",
         "repo": "janet2nix",
+        "rev": "b9497006685df339fb04a32e2a175a129e12b2f4",
         "type": "github"
       }
     },
